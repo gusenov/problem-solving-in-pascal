@@ -6,3 +6,4 @@
 - [Вычисление простых условных функций](conditional-functions/)
 - [Подкоренные выражения](ua/02-expression-with-sqrt/)
 - [Поиск неподобных прямоугольных треугольников](ua/03-non-congruent-triangles/)
+- [Заполнение двумерного массива зигзагом](ua/05-2d-array-fill-zigzag/)
