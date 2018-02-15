@@ -6,4 +6,7 @@
 - [Вычисление простых условных функций](conditional-functions/)
 - [Подкоренные выражения](ua/02-expression-with-sqrt/)
 - [Поиск неподобных прямоугольных треугольников](ua/03-non-congruent-triangles/)
+- [Сумма цифр числа](ua/04-digit-sum/)
 - [Заполнение двумерного массива зигзагом](ua/05-2d-array-fill-zigzag/)
+- [Поиск координат третьей вершины](ua/06-find-third-vertex-of-triangle/)
+- [Инвертирование слов в предложении](ua/07-reverse-words/)
