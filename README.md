@@ -8,6 +8,7 @@
 
 ## Циклы
 
+- [Вывод на экран чисел](reverse-order-of-numeric-rows/) [в виде таблицы](reverse-order-of-numeric-rows/problem-statement.jpg)
 
 ## Числа
 
