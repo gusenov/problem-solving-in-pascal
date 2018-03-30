@@ -9,6 +9,7 @@
 ## Циклы
 
 - [Вывод на экран чисел](reverse-order-of-numeric-rows/) [в виде таблицы](reverse-order-of-numeric-rows/problem-statement.jpg)
+- [Поиск приближенного значения функции ln(1 + x)](ln-one-plus-x/)
 
 ## Числа
 
