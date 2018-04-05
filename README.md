@@ -10,6 +10,7 @@
 
 - [Вывод на экран чисел](reverse-order-of-numeric-rows/) [в виде таблицы](reverse-order-of-numeric-rows/problem-statement.jpg)
 - [Поиск приближенного значения функции ln(1 + x)](ln-one-plus-x/)
+- [Вычисление значения функции y=2*sqr(x)+5, для значений x, изменяющихся от -3 до 1 с шагом 0.1](foo-2-sqr-x-plus-5/)
 
 ## Числа
 
