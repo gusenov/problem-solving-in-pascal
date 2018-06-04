@@ -1,0 +1,1 @@
+![Вычислить](problem-statement.jpg)
